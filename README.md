@@ -5,15 +5,19 @@ ORGANIZATION
 
 # Наши услуги
 
-![images1](https://user-images.githubusercontent.com/95538625/144722113-3a49ebfa-e59f-4373-9e86-2c443a311d27.jpg)
+
 
 **Уборка снега с крыш**
 
 Очистка кровли от надели и уборка снега с крыш
 
+![images2](https://user-images.githubusercontent.com/95538625/144723072-2fb0e578-4dad-4938-b6ab-a016ec969173.png)
+
 **Сбивка сосулек**
 
 Удаление сосулек и надели с карнизов здания и выступающих частей фасада
+
+![images3](https://user-images.githubusercontent.com/95538625/144723079-bf6a837d-be29-49f1-aabb-ffb5234fb0c2.png)
 
 **Очистка територии**
 
